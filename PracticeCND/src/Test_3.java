@@ -5,10 +5,14 @@ public class Test_3 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello");
-		int a1=10; // add a1
-		int a2=10; // add a2
-		int a3=10; // add a3
-		int a4=10; // add a4
+		int a11=10; // add a11
+		int a22=10; // add a22
+		int a33=10; // add a33
+		int a44=10; // add a44
+		
+		int a5=10; // add a5
+		int a6=10; // add a6
+		int a7=10; // add a7
 	}
 
 }
