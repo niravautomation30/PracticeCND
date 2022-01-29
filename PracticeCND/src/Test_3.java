@@ -5,12 +5,10 @@ public class Test_3 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello");
-		int a1=10;
-		int a2=10;
-		int a22=22;
-		int a33=33;
-		int a3=10;
-		int a4=10;
+		int a1=11;
+		int a2=12;
+		int a3=14;
+		int a4=15;
 	}
 
 }
