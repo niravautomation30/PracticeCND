@@ -5,6 +5,7 @@ public class Test_3 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello");
+
 		int a11=10; // add a11
 		int a22=10; // add a22
 		int a33=10; // add a33
