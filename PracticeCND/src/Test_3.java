@@ -7,6 +7,8 @@ public class Test_3 {
 		System.out.println("Hello");
 		int a1=10;
 		int a2=10;
+		int a22=22;
+		int a33=33;
 		int a3=10;
 		int a4=10;
 	}
