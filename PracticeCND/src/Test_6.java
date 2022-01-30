@@ -5,7 +5,7 @@ public class Test_6 {
 		// TODO Auto-generated method stub	
 		int c1=100;
 		int c2=2000;
-		int c33=333;
+		int c33=000;
 	}
 
 }
