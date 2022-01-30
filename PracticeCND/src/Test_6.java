@@ -2,8 +2,9 @@
 public class Test_6 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int d=40;
+		// TODO Auto-generated method stub	
+		int i1=30;
+		int i2=40;
 	}
 
 }
