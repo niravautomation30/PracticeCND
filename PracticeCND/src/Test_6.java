@@ -5,7 +5,7 @@ public class Test_6 {
 		// TODO Auto-generated method stub	
 		int c1=100;
 		int c2=2000;
-		//this is comment System.out.println(c1+c2);
+		int c3=3;
 	}
 
 }
